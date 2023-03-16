@@ -10,7 +10,9 @@ This is a portable version based on the [Kohya's GUI](https://github.com/bmaltai
  Example: `D:\Kohya_ss-GUI-LoRA-Portable-main`</br>
 3. Run `firstrun.cmd` and wait until you see these line:</br>
  `Running on local URL:  http://127.0.0.1:7860`</br>
-  Done!
+4. Open `http://127.0.0.1:7860` page to open UI
+5. Done!
+
 
 Next time you always run `webui.cmd` to launch Kohya_ss GUI (LoRA)
 
