@@ -2,6 +2,8 @@
 This is a portable version based on the [Kohya's GUI](https://github.com/bmaltais/kohya_ss) version
 
 ----
+## ONE CLICK SOLUTION
+----
 
 ## Running on Windows
 1. Download [Portable Kohya_ss GUI (LoRA)](https://github.com/serpotapov/Kohya_ss-GUI-LoRA-Portable/archive/refs/heads/main.zip)
