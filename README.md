@@ -24,6 +24,6 @@ Next time you always run `webui.cmd` inside `Kohya_ss-GUI-LoRA-Portable-main` fo
 
 ----
 
-## Tutorial and Settings
+## Tutorial and Settings (Russian):
 
-[![Stable Diffusion Review](https://i.ytimg.com/vi/A15M4cbUM5k/maxresdefault.jpg)](https://youtu.be/A15M4cbUM5k)
+[![Stable Diffusion Review](https://i.imgur.com/VOyNHT1.jpg)](https://youtu.be/A15M4cbUM5k)
