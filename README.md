@@ -20,10 +20,10 @@ Next time you always run `webui.cmd` inside `Kohya_ss-GUI-LoRA-Portable-main` fo
 
 ----
 
-[Our community](https://discord.gg/fQn43JppxB)
+[Our community](https://discord.gg/xpuct)
 
 ----
 
 ## Tutorial and Settings
 
-[![Stable Diffusion Review](https://i.imgur.com/JbBPYuE.jpg)](https://youtu.be/jepK6ufemMw)
+[![Stable Diffusion Review](https://i.ytimg.com/vi/A15M4cbUM5k/maxresdefault.jpg)](https://youtu.be/A15M4cbUM5k)
