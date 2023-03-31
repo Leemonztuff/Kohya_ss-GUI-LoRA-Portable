@@ -17,7 +17,7 @@ This is a portable version based on the [Kohya's GUI](https://github.com/bmaltai
 Next time you always run `webui.cmd` or `webui-lora-only.cmd` inside `Kohya_ss-GUI-LoRA-Portable-main` folder to launch Kohya_ss GUI (LoRA)
 
 
-DO NOT rename or move the folder with the Portable Kohya_ss GUI (LoRA)
+DO NOT rename / move the `Portable Kohya_ss GUI (LoRA)` folder after first run
 ----
 
 [Our community](https://discord.gg/xpuct)
