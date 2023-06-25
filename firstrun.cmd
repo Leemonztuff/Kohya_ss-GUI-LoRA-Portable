@@ -15,6 +15,9 @@ python -m venv venv
 call venv\Scripts\activate.bat
 
 pip install --use-pep517 -U -r firstrun.txt
+echo Installing bitsandbytes
+python firstrun.py
+
 del firstrun.* & webui.cmd
 
 pause
