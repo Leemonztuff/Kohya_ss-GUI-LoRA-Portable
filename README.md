@@ -8,7 +8,7 @@ This is a portable version based on the [Kohya's GUI](https://github.com/bmaltai
 ## Running on Windows
 1. Download [Portable Kohya_ss GUI (LoRA)](https://github.com/serpotapov/Kohya_ss-GUI-LoRA-Portable/archive/refs/heads/main.zip)
 2. Unzip the `Kohya_ss-GUI-LoRA-Portable-main` folder anywhere you want</br>
- Root directory preferred, and path shouldn't has spaces and Cyrillic</br>
+ Root directory preferred, and path shouldn't have spaces and Cyrillic</br>
  Example: `D:\Kohya_ss-GUI-LoRA-Portable-main`</br>
 3. Run `firstrun.cmd` and wait until `Kohya_ss GUI` opens in the browser 
 4. Done!
