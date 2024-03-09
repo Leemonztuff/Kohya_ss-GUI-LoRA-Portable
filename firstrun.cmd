@@ -9,7 +9,7 @@ set temp=tmp
 
 git init .
 git remote add origin https://github.com/bmaltais/kohya_ss.git
-git pull origin master
+git pull origin v22.6.2
 
 python -m venv venv
 call venv\Scripts\activate.bat
