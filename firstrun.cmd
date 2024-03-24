@@ -9,15 +9,16 @@ set temp=tmp
 
 git init .
 git remote add origin https://github.com/bmaltais/kohya_ss.git
-git pull origin v22.6.2
+git pull origin master
+
+git clone https://github.com/kohya-ss/sd-scripts
 
 python -m venv venv
 call venv\Scripts\activate.bat
 
 pip install --use-pep517 -U -r firstrun.txt
-echo Installing bitsandbytes
-python firstrun.py
+python -m pip install --upgrade pip
 
-del firstrun.* & webui.cmd
+del firstrun.* & webui-lora-only.cmd
 
 pause
