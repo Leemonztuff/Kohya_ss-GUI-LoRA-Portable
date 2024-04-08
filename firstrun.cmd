@@ -19,6 +19,6 @@ call venv\Scripts\activate.bat
 pip install --use-pep517 -U -r firstrun.txt
 python -m pip install --upgrade pip
 
-del firstrun.* & webui-lora-only.cmd
+del firstrun.* & webui.cmd
 
 pause
